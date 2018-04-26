@@ -64,7 +64,6 @@
   },
   "dependencies": {
     "vega-crossfilter": "2",
-    "vega-dataflow": "3",
     "vega-encode": "2",
     "vega-expression": "^2.3",
     "vega-force": "2",
@@ -99,6 +98,7 @@
     "tv4": "1",
     "uglify-js": "3",
     "vega-datasets": "1"
+    "vega-dataflow": "git+https://github.com/yochie/vega-dataflow"
   },
   "browser": {
     "buffer": false,
